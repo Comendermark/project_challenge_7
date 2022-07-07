@@ -1,0 +1,9 @@
+.pt-page-moveFromTopFade {
+    -webkit-animation: moveFromTopFade .7s ease both;
+    animation: moveFromTopFade .7s ease both;
+}
+
+.pt-page-moveFromBottomFade {
+    -webkit-animation: moveFromBottomFade .7s ease both;
+    animation: moveFromBottomFade .7s ease both;
+}
